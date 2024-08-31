@@ -3,6 +3,8 @@
 
 Este repositório contém um clone da interface da página inicial do Globo.com. O objetivo deste projeto é exclusivamente para fins de estudo e aprimoramento de habilidades em desenvolvimento web.
 
+você pode acessar o site através da url: https://gloobo.netlify.app/
+
 ## Objetivos do Projeto
 
 Este projeto foi desenvolvido com o intuito de:
